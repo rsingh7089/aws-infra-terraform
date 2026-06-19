@@ -1,5 +1,3 @@
-# aws-infra-terraform
- Production-ready Terraform modules for AWS infrastructure — VPC, EC2, S3, IAM, SQS, Lambda
 # ☁️ AWS Infrastructure — Terraform Modules
 
 Production-ready Terraform modules for provisioning and managing AWS infrastructure. Built with best practices — modular, reusable, and environment-aware using Terraform Workspaces.
